@@ -1,13 +1,16 @@
-# Minecraft PC & PE Server Status - Translation
-Minecraft PC & PE Server Status Website Language file.
+# Minecraft PC & PE Server Status - Translations
+Minecraft PC & PE Server Status (For Websites)
 
-Please help contribution translation, Thank you.
+Way to help us:
+1.  Download Poedit [here](https://poedit.net/) and the "mcserverstatus.pot" file which is the translation template.
+2.  Start translating the file.
+3.  Save the file and send the .po file to kinkwanchan295@gmail.com (2 file will be generated when you save the file, we need the .po file only).
 
-You can use [Poedit](https://poedit.net/) translation, "mcserverstatus.pot" is the translation template.
+We really need you to help us translating this useful plugin, please lend a helping hand to us.
 
 Website URL: [https://mcst.reh.tw/](https://mcst.reh.tw/)
 
-Have been translated language:
+Translated languages:
 - [X] English (en_US)
 - [X] 繁體中文 (zh_TW)
 - [X] 简体中文 (zh_CN)
