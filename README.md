@@ -2,8 +2,11 @@
 Minecraft PC & PE Server Status (For Websites)
 
 Way to help us:
+
 1.  Download Poedit [here](https://poedit.net/) and the "mcserverstatus.pot" file which is the translation template.
+
 2.  Start translating the file.
+
 3.  Save the file and send the .po file to kinkwanchan295@gmail.com (2 file will be generated when you save the file, we need the .po file only).
 
 We really need you to help us translating this useful plugin, please lend a helping hand to us.
