@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-22 20:43+0800\n"
+"POT-Creation-Date: 2016-09-23 20:17+0800\n"
 "PO-Revision-Date: 2016-09-17 22:59+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
@@ -28,28 +28,28 @@ msgid "Error, Banner type can not be null."
 msgstr ""
 
 #: page/banner.php:22 page/banner.php:27 page/banner.php:51 page/banner.php:56
-#: page/home.php:123 mcserverstatus/offline.phtml:120
-#: mcserverstatus/online.phtml:115
+#: page/home.php:128 mcserverstatus/offline.phtml:134
+#: mcserverstatus/online.phtml:129
 msgid "IP / Host"
 msgstr ""
 
-#: page/banner.php:23 page/banner.php:52 page/home.php:131
+#: page/banner.php:23 page/banner.php:52 page/home.php:136
 msgid "Port"
 msgstr ""
 
 #: page/banner.php:24 page/banner.php:53 mcserverstatus/offline.phtml:6
 #: mcserverstatus/offline.phtml:10 mcserverstatus/offline.phtml:18
-#: mcserverstatus/offline.phtml:103 mcserverstatus/offline.phtml:117
+#: mcserverstatus/offline.phtml:116 mcserverstatus/offline.phtml:131
 msgid "Offline"
 msgstr ""
 
 #: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
-#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:124
-#: mcserverstatus/online.phtml:119
+#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:138
+#: mcserverstatus/online.phtml:133
 msgid "Server platform"
 msgstr ""
 
-#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:112
+#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:126
 msgid "Online"
 msgstr ""
 
@@ -82,93 +82,108 @@ msgstr ""
 msgid "Server name unfilled!"
 msgstr ""
 
-#: page/home.php:71 mcserverstatus/offline.phtml:58
-#: mcserverstatus/online.phtml:58
+#: page/home.php:73 mcserverstatus/offline.phtml:68
+#: mcserverstatus/online.phtml:68
 msgid "Home"
 msgstr ""
 
-#: page/home.php:74 mcserverstatus/offline.phtml:61
-#: mcserverstatus/online.phtml:61
+#: page/home.php:76 mcserverstatus/offline.phtml:71
+#: mcserverstatus/online.phtml:71
 msgid "Donate by allPay"
 msgstr ""
 
-#: page/home.php:77 mcserverstatus/offline.phtml:64
-#: mcserverstatus/online.phtml:64
+#: page/home.php:79 mcserverstatus/offline.phtml:74
+#: mcserverstatus/online.phtml:74
 msgid "Donate by PayPal"
 msgstr ""
 
-#: page/home.php:80 mcserverstatus/offline.phtml:67
-#: mcserverstatus/online.phtml:67
+#: page/home.php:82 mcserverstatus/offline.phtml:77
+#: mcserverstatus/online.phtml:77
+msgid "Contribution translation"
+msgstr ""
+
+#: page/home.php:85 mcserverstatus/offline.phtml:80
+#: mcserverstatus/online.phtml:80
 msgid "GitHub"
 msgstr ""
 
-#: page/home.php:84 mcserverstatus/offline.phtml:71
-#: mcserverstatus/online.phtml:71
+#: page/home.php:89 mcserverstatus/offline.phtml:84
+#: mcserverstatus/online.phtml:84
 msgid "Language"
 msgstr ""
 
-#: page/home.php:139
+#: page/home.php:144
 msgid "Server Name"
 msgstr ""
 
-#: page/home.php:147
+#: page/home.php:152
 msgid "Submit"
 msgstr ""
 
-#: page/home.php:161
+#: page/home.php:166
 msgid "Done!"
 msgstr ""
 
-#: page/home.php:164
+#: page/home.php:169
 msgid "Page Link"
 msgstr ""
 
-#: page/home.php:167 page/home.php:173
+#: page/home.php:172 page/home.php:178
 msgid "Go to"
 msgstr ""
 
-#: page/home.php:170
+#: page/home.php:175
 msgid "Json Link"
 msgstr ""
 
-#: page/home.php:175
+#: page/home.php:180
 msgid "Banner Html"
 msgstr ""
 
-#: page/home.php:178
+#: page/home.php:183
 msgid "Type 1"
 msgstr ""
 
-#: page/home.php:185
+#: page/home.php:190
 msgid "Type 2"
 msgstr ""
 
-#: page/home.php:192
+#: page/home.php:197
 msgid "Type 3"
 msgstr ""
 
-#: page/home.php:199
+#: page/home.php:204
 msgid "Recommend to us Banner Image"
 msgstr ""
 
-#: page/home.php:226 mcserverstatus/offline.phtml:186
-#: mcserverstatus/online.phtml:212
-msgid "Show Minecraft PC &amp; PE server data."
+#: page/home.php:231 mcserverstatus/offline.phtml:194
+#: mcserverstatus/online.phtml:220
+msgid "Show Minecraft PC &amp; PE server data"
 msgstr ""
 
-#: page/home.php:229 mcserverstatus/offline.phtml:189
-#: mcserverstatus/online.phtml:215
+#: page/home.php:232 mcserverstatus/offline.phtml:195
+#: mcserverstatus/online.phtml:221
 msgid "Donate"
 msgstr ""
 
-#: page/home.php:229 mcserverstatus/offline.phtml:189
-#: mcserverstatus/online.phtml:215
+#: page/home.php:232 mcserverstatus/offline.phtml:195
+#: mcserverstatus/online.phtml:221
 msgid "allPay"
 msgstr ""
 
-#: page/home.php:229 mcserverstatus/offline.phtml:189
-#: mcserverstatus/online.phtml:215
+#: page/home.php:232 mcserverstatus/offline.phtml:195
+#: mcserverstatus/online.phtml:221
 msgid "PayPal"
+msgstr ""
+
+#: page/home.php:233 mcserverstatus/offline.phtml:196
+#: mcserverstatus/online.phtml:222
+msgid "Not have your language?"
+msgstr ""
+
+#: page/home.php:233 mcserverstatus/offline.phtml:196
+#: mcserverstatus/online.phtml:222
+msgid "Helped us translation!"
 msgstr ""
 
 #: mcserverstatus/offline.phtml:11 mcserverstatus/offline.phtml:12
@@ -188,56 +203,52 @@ msgstr ""
 msgid "Server is offline"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:104
+#: mcserverstatus/offline.phtml:118
 msgid "Possible Causes:"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:105
+#: mcserverstatus/offline.phtml:119
 msgid "Server is not started."
 msgstr ""
 
-#: mcserverstatus/offline.phtml:106
+#: mcserverstatus/offline.phtml:120
 msgid "Query is not enabled."
 msgstr ""
 
-#: mcserverstatus/offline.phtml:107
+#: mcserverstatus/offline.phtml:121
 msgid "IP / Host input error."
 msgstr ""
 
-#: mcserverstatus/offline.phtml:108
+#: mcserverstatus/offline.phtml:122
 msgid "Port input error."
 msgstr ""
 
-#: mcserverstatus/offline.phtml:116 mcserverstatus/online.phtml:111
+#: mcserverstatus/offline.phtml:130 mcserverstatus/online.phtml:125
 msgid "Status"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:128 mcserverstatus/online.phtml:131
+#: mcserverstatus/offline.phtml:142 mcserverstatus/online.phtml:145
 msgid "Server software"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:132 mcserverstatus/online.phtml:135
+#: mcserverstatus/offline.phtml:146 mcserverstatus/online.phtml:149
 msgid "Game version"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:136 mcserverstatus/online.phtml:139
+#: mcserverstatus/offline.phtml:150 mcserverstatus/online.phtml:153
 msgid "Plugins"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:150 mcserverstatus/online.phtml:166
+#: mcserverstatus/offline.phtml:164 mcserverstatus/online.phtml:180
 msgid "Players"
 msgstr ""
 
-#: mcserverstatus/offline.phtml:152 mcserverstatus/online.phtml:169
+#: mcserverstatus/offline.phtml:166 mcserverstatus/online.phtml:183
 msgid "Not found."
 msgstr ""
 
-#: mcserverstatus/offline.phtml:172 mcserverstatus/online.phtml:198
+#: mcserverstatus/offline.phtml:185 mcserverstatus/online.phtml:211
 msgid "Json"
-msgstr ""
-
-#: mcserverstatus/offline.phtml:176 mcserverstatus/online.phtml:202
-msgid "Banner"
 msgstr ""
 
 #: mcserverstatus/online.phtml:6 mcserverstatus/online.phtml:10
