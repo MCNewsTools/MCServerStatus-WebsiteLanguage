@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: meserverstatus\n"
+"POT-Creation-Date: 2016-09-24 15:01+0800\n"
+"PO-Revision-Date: 2016-09-24 15:01+0800\n"
+"Last-Translator: 科技玩客 TechPlayer\n"
+"Language-Team: 科技玩客 TechPlayer, LLC.\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:53
+msgid "Error, Port can not be null."
+msgstr "エラー，ポートはボランクできません。"
+
+#: index.php:65
+msgid "Error, Type can not be null or Type does not exist."
+msgstr "エラー，タイプはボランクまだは存在しません。"
+
+#: page/banner.php:9
+msgid "Error, Banner type can not be null."
+msgstr "エラー，バナータイプはボランクできません。"
+
+#: page/banner.php:22 page/banner.php:27 page/banner.php:51 page/banner.php:56
+#: page/home.php:141 mcserverstatus/offline.phtml:141
+#: mcserverstatus/online.phtml:136
+msgid "IP / Host"
+msgstr "IP / ホスト"
+
+#: page/banner.php:23 page/banner.php:52 page/home.php:149
+msgid "Port"
+msgstr "ポート"
+
+#: page/banner.php:24 page/banner.php:53 mcserverstatus/offline.phtml:6
+#: mcserverstatus/offline.phtml:10 mcserverstatus/offline.phtml:18
+#: mcserverstatus/offline.phtml:123 mcserverstatus/offline.phtml:138
+msgid "Offline"
+msgstr "オフライン"
+
+#: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
+#: page/banner.php:60 page/banner.php:62
+msgid "Server platform"
+msgstr "サーバプラットフォーム"
+
+#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:133
+msgid "Online"
+msgstr "オンライン"
+
+#: page/banner.php:37 page/banner.php:66 page/banner.php:95
+msgid "Status page"
+msgstr "状態ペイジ"
+
+#: page/banner.php:97
+msgid "Error, Banner type does not exist."
+msgstr "エラー，バナータイプは存在しません。"
+
+#: page/home.php:6 page/home.php:10 page/home.php:14 page/home.php:18
+#: mcserverstatus/offline.phtml:14 mcserverstatus/online.phtml:14
+msgid "Minecraft PC & PE Server Status (MCServerStatus)"
+msgstr "Minecraft PC & PE サーバ状態 (MCServerStatus)"
+
+#: page/home.php:11 page/home.php:12 page/home.php:17 page/home.php:133
+msgid ""
+"Welcome to MCServerStatus. This is a website for quering the status of both "
+"Minecraft PC and PE servers. We currently provide server status pages, json, "
+"and status banner for websites. It supports multi-languages. We promise that "
+"are no encoding errors. Start using it today!"
+msgstr ""
+
+#: page/home.php:50
+msgid "Server ip / host unfilled!"
+msgstr "IP / ホストはボランクできません！"
+
+#: page/home.php:52
+msgid "Server port unfilled!"
+msgstr "サーバポートはボランクできません！"
+
+#: page/home.php:54
+msgid "Server name unfilled!"
+msgstr "サーバ名前はボランクできません！"
+
+#: page/home.php:77 mcserverstatus/offline.phtml:72
+#: mcserverstatus/online.phtml:72
+msgid "Home"
+msgstr "ホーム"
+
+#: page/home.php:80 mcserverstatus/offline.phtml:75
+#: mcserverstatus/online.phtml:75
+msgid "Donate by allPay"
+msgstr "allPay寄付"
+
+#: page/home.php:83 mcserverstatus/offline.phtml:78
+#: mcserverstatus/online.phtml:78
+msgid "Donate by PayPal"
+msgstr "PayPal寄付"
+
+#: page/home.php:86 mcserverstatus/offline.phtml:81
+#: mcserverstatus/online.phtml:81
+msgid "Contribution translation"
+msgstr ""
+
+#: page/home.php:89 mcserverstatus/offline.phtml:84
+#: mcserverstatus/online.phtml:84
+msgid "GitHub"
+msgstr "GitHub"
+
+#: page/home.php:93 mcserverstatus/offline.phtml:88
+#: mcserverstatus/online.phtml:88
+msgid "Language"
+msgstr "言語"
+
+#: page/home.php:132
+msgid "Introduction"
+msgstr ""
+
+#: page/home.php:157
+msgid "Server Name"
+msgstr "サーバの名前"
+
+#: page/home.php:165
+msgid "Submit"
+msgstr "送信"
+
+#: page/home.php:179
+msgid "Done!"
+msgstr "終了！"
+
+#: page/home.php:182
+msgid "Page Link"
+msgstr "ペイジリンク"
+
+#: page/home.php:185 page/home.php:191
+msgid "Go to"
+msgstr "GO"
+
+#: page/home.php:188
+msgid "Json Link"
+msgstr "Json リンク"
+
+#: page/home.php:193
+msgid "Banner Html"
+msgstr "バナー Html"
+
+#: page/home.php:196
+msgid "Type 1"
+msgstr "タイプ 1"
+
+#: page/home.php:203
+msgid "Type 2"
+msgstr "タイプ 2"
+
+#: page/home.php:210
+msgid "Type 3"
+msgstr "タイプ 3"
+
+#: page/home.php:217
+msgid "Recommend to us Banner Image"
+msgstr "バナー写真を推薦します"
+
+#: page/home.php:244 mcserverstatus/offline.phtml:205
+#: mcserverstatus/online.phtml:223
+msgid "Show Minecraft PC &amp; PE server data"
+msgstr ""
+
+#: page/home.php:245 mcserverstatus/offline.phtml:206
+#: mcserverstatus/online.phtml:224
+msgid "Donate"
+msgstr "寄付"
+
+#: page/home.php:245 mcserverstatus/offline.phtml:206
+#: mcserverstatus/online.phtml:224
+msgid "allPay"
+msgstr "allPay"
+
+#: page/home.php:245 mcserverstatus/offline.phtml:206
+#: mcserverstatus/online.phtml:224
+msgid "PayPal"
+msgstr "PayPal"
+
+#: page/home.php:246 mcserverstatus/offline.phtml:207
+#: mcserverstatus/online.phtml:225
+msgid "Not have your language?"
+msgstr ""
+
+#: page/home.php:246 mcserverstatus/offline.phtml:207
+#: mcserverstatus/online.phtml:225
+msgid "Helped us translation!"
+msgstr ""
+
+#: mcserverstatus/offline.phtml:11 mcserverstatus/offline.phtml:12
+#: mcserverstatus/offline.phtml:17 mcserverstatus/online.phtml:11
+#: mcserverstatus/online.phtml:12 mcserverstatus/online.phtml:17
+msgid "Host:"
+msgstr "ホスト:"
+
+#: mcserverstatus/offline.phtml:11 mcserverstatus/offline.phtml:12
+#: mcserverstatus/offline.phtml:17 mcserverstatus/online.phtml:11
+#: mcserverstatus/online.phtml:12 mcserverstatus/online.phtml:17
+msgid "Port:"
+msgstr "ポート:"
+
+#: mcserverstatus/offline.phtml:11 mcserverstatus/offline.phtml:12
+#: mcserverstatus/offline.phtml:17
+msgid "Server is offline"
+msgstr "サーバはオフライン"
+
+#: mcserverstatus/offline.phtml:125
+msgid "Possible Causes:"
+msgstr "可能は:"
+
+#: mcserverstatus/offline.phtml:126
+msgid "Server is not started."
+msgstr "サーバはオフ。"
+
+#: mcserverstatus/offline.phtml:127
+msgid "Query is not enabled."
+msgstr "Query はオフ。"
+
+#: mcserverstatus/offline.phtml:128
+msgid "IP / Host input error."
+msgstr "IP / ホストはエラーです。"
+
+#: mcserverstatus/offline.phtml:129
+msgid "Port input error."
+msgstr "ポートはエラーです。"
+
+#: mcserverstatus/offline.phtml:137 mcserverstatus/online.phtml:132
+msgid "Status"
+msgstr "状態"
+
+#: mcserverstatus/offline.phtml:145 mcserverstatus/online.phtml:140
+msgid "Game version"
+msgstr "ゲムバージョン"
+
+#: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
+msgid "Server system"
+msgstr ""
+
+#: mcserverstatus/offline.phtml:161 mcserverstatus/online.phtml:156
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: mcserverstatus/offline.phtml:175 mcserverstatus/online.phtml:183
+msgid "Players"
+msgstr "プレーヤー"
+
+#: mcserverstatus/offline.phtml:177 mcserverstatus/online.phtml:186
+msgid "Not found."
+msgstr "存在しません。"
+
+#: mcserverstatus/offline.phtml:196 mcserverstatus/online.phtml:214
+msgid "Json"
+msgstr "Json"
+
+#: mcserverstatus/online.phtml:6 mcserverstatus/online.phtml:10
+#: mcserverstatus/online.phtml:18
+msgid "Server Status"
+msgstr "サーバ状態"
+
+#: mcserverstatus/online.phtml:11 mcserverstatus/online.phtml:12
+#: mcserverstatus/online.phtml:17
+msgid "Server"
+msgstr "サーバ"
+
+#~ msgid "Show Minecraft PC & PE server data."
+#~ msgstr "ディスプレイ Minecraft PC & PE サーバデータ。"
+
+#~ msgid "Show Minecraft PC &amp; PE server data."
+#~ msgstr "ディスプレイ Minecraft PC &amp; PE サーバデータ。"
+
+#~ msgid "Server software"
+#~ msgstr "サーバソフトウェア"
+
+#~ msgid "Banner"
+#~ msgstr "バナー"
+
+#~ msgid "Banner Link"
+#~ msgstr "バナーリンク"
+
+#~ msgid "Error, Type can not be null."
+#~ msgstr "エラー，タイプはボランクできません。"
+
+#~ msgid "Not found"
+#~ msgstr "存在しません。"
+
+#~ msgid "Host"
+#~ msgstr "ホスト"
+
+#~ msgid "Error, Value can not be null."
+#~ msgstr "エラー，コンテンツはボランクできません。"
