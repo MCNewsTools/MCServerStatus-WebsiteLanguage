@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-24 15:00+0800\n"
-"PO-Revision-Date: 2016-09-24 15:01+0800\n"
+"POT-Creation-Date: 2016-09-24 15:17+0800\n"
+"PO-Revision-Date: 2016-09-24 15:17+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
 "Language: zh_CN\n"
@@ -43,9 +43,10 @@ msgid "Offline"
 msgstr "离线"
 
 #: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
-#: page/banner.php:60 page/banner.php:62
-msgid "Server platform"
-msgstr "服务器平台"
+#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:145
+#: mcserverstatus/online.phtml:140
+msgid "Game version"
+msgstr "游戏版本"
 
 #: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:133
 msgid "Online"
@@ -236,10 +237,6 @@ msgstr "端口输入错误。"
 msgid "Status"
 msgstr "状态"
 
-#: mcserverstatus/offline.phtml:145 mcserverstatus/online.phtml:140
-msgid "Game version"
-msgstr "游戏版本"
-
 #: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
 msgid "Server system"
 msgstr "服务器系统"
@@ -269,6 +266,9 @@ msgstr "服务器状态"
 #: mcserverstatus/online.phtml:17
 msgid "Server"
 msgstr "服务器"
+
+#~ msgid "Server platform"
+#~ msgstr "服务器平台"
 
 #~ msgid "Show Minecraft PC & PE server data."
 #~ msgstr "显示 Minecraft PC & PE 服务器资料。"

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-24 15:01+0800\n"
-"PO-Revision-Date: 2016-09-24 15:01+0800\n"
+"POT-Creation-Date: 2016-09-24 15:18+0800\n"
+"PO-Revision-Date: 2016-09-24 15:18+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
 "Language: zh_TW\n"
@@ -43,9 +43,10 @@ msgid "Offline"
 msgstr "オフライン"
 
 #: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
-#: page/banner.php:60 page/banner.php:62
-msgid "Server platform"
-msgstr "サーバプラットフォーム"
+#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:145
+#: mcserverstatus/online.phtml:140
+msgid "Game version"
+msgstr "ゲムバージョン"
 
 #: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:133
 msgid "Online"
@@ -233,10 +234,6 @@ msgstr "ポートはエラーです。"
 msgid "Status"
 msgstr "状態"
 
-#: mcserverstatus/offline.phtml:145 mcserverstatus/online.phtml:140
-msgid "Game version"
-msgstr "ゲムバージョン"
-
 #: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
 msgid "Server system"
 msgstr ""
@@ -266,6 +263,9 @@ msgstr "サーバ状態"
 #: mcserverstatus/online.phtml:17
 msgid "Server"
 msgstr "サーバ"
+
+#~ msgid "Server platform"
+#~ msgstr "サーバプラットフォーム"
 
 #~ msgid "Show Minecraft PC & PE server data."
 #~ msgstr "ディスプレイ Minecraft PC & PE サーバデータ。"
