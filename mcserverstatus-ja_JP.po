@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-25 15:28+0800\n"
-"PO-Revision-Date: 2016-09-25 15:28+0800\n"
+"POT-Creation-Date: 2016-09-25 23:09+0800\n"
+"PO-Revision-Date: 2016-09-25 23:09+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
 "Language: zh_TW\n"
@@ -27,28 +27,28 @@ msgid "Error, Banner type can not be null."
 msgstr "エラー，バナータイプはボランクできません。"
 
 #: page/banner.php:22 page/banner.php:27 page/banner.php:51 page/banner.php:56
-#: page/home.php:141 mcserverstatus/offline.phtml:141
-#: mcserverstatus/online.phtml:136
+#: page/home.php:152 mcserverstatus/offline.phtml:144
+#: mcserverstatus/online.phtml:139
 msgid "IP / Host"
 msgstr "IP / ホスト"
 
-#: page/banner.php:23 page/banner.php:52 page/home.php:149
+#: page/banner.php:23 page/banner.php:52 page/home.php:160
 msgid "Port"
 msgstr "ポート"
 
 #: page/banner.php:24 page/banner.php:53 mcserverstatus/offline.phtml:6
 #: mcserverstatus/offline.phtml:10 mcserverstatus/offline.phtml:18
-#: mcserverstatus/offline.phtml:123 mcserverstatus/offline.phtml:138
+#: mcserverstatus/offline.phtml:126 mcserverstatus/offline.phtml:141
 msgid "Offline"
 msgstr "オフライン"
 
 #: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
-#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:145
-#: mcserverstatus/online.phtml:140
+#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:148
+#: mcserverstatus/online.phtml:143
 msgid "Game version"
 msgstr "ゲムバージョン"
 
-#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:133
+#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:136
 msgid "Online"
 msgstr "オンライン"
 
@@ -65,7 +65,7 @@ msgstr "エラー，バナータイプは存在しません。"
 msgid "Minecraft PC & PE Server Status (MCServerStatus)"
 msgstr "Minecraft PC & PE サーバ状態 (MCServerStatus)"
 
-#: page/home.php:11 page/home.php:12 page/home.php:17 page/home.php:133
+#: page/home.php:11 page/home.php:12 page/home.php:17 page/home.php:143
 msgid ""
 "Welcome to MCServerStatus. This is a website for quering the status of both "
 "Minecraft PC and PE servers. We currently provide server status pages, json, "
@@ -75,123 +75,128 @@ msgstr ""
 "ようこそ！こちらはMinecraft PC とPEの状態検査のウェブサイト。我々は状態ペイジ"
 "とJSONとバナーは提供しています。さー始めるよ！"
 
-#: page/home.php:50
+#: page/home.php:51
 msgid "Server ip / host unfilled!"
 msgstr "IP / ホストはボランクできません！"
 
-#: page/home.php:52
+#: page/home.php:53
 msgid "Server port unfilled!"
 msgstr "サーバポートはボランクできません！"
 
-#: page/home.php:54
+#: page/home.php:55
 msgid "Server name unfilled!"
 msgstr "サーバ名前はボランクできません！"
 
-#: page/home.php:77 mcserverstatus/offline.phtml:72
-#: mcserverstatus/online.phtml:72
+#: page/home.php:66 mcserverstatus/offline.phtml:53
+#: mcserverstatus/online.phtml:53
+msgid "en_US"
+msgstr "ja_JP"
+
+#: page/home.php:86 mcserverstatus/offline.phtml:73
+#: mcserverstatus/online.phtml:73
 msgid "Home"
 msgstr "ホーム"
 
-#: page/home.php:80 mcserverstatus/offline.phtml:75
-#: mcserverstatus/online.phtml:75
+#: page/home.php:89 mcserverstatus/offline.phtml:76
+#: mcserverstatus/online.phtml:76
 msgid "Donate by allPay"
 msgstr "allPay寄付"
 
-#: page/home.php:83 mcserverstatus/offline.phtml:78
-#: mcserverstatus/online.phtml:78
+#: page/home.php:92 mcserverstatus/offline.phtml:79
+#: mcserverstatus/online.phtml:79
 msgid "Donate by PayPal"
 msgstr "PayPal寄付"
 
-#: page/home.php:86 mcserverstatus/offline.phtml:81
-#: mcserverstatus/online.phtml:81
+#: page/home.php:95 mcserverstatus/offline.phtml:82
+#: mcserverstatus/online.phtml:82
 msgid "Contribution translation"
 msgstr "翻訳を貢献します。"
 
-#: page/home.php:89 mcserverstatus/offline.phtml:84
-#: mcserverstatus/online.phtml:84
+#: page/home.php:98 mcserverstatus/offline.phtml:85
+#: mcserverstatus/online.phtml:85
 msgid "GitHub"
 msgstr "GitHub"
 
-#: page/home.php:93 mcserverstatus/offline.phtml:88
-#: mcserverstatus/online.phtml:88
+#: page/home.php:102 mcserverstatus/offline.phtml:89
+#: mcserverstatus/online.phtml:89
 msgid "Language"
 msgstr "言語"
 
-#: page/home.php:132
+#: page/home.php:142
 msgid "Introduction"
 msgstr "紹介"
 
-#: page/home.php:157
+#: page/home.php:168
 msgid "Server Name"
 msgstr "サーバの名前"
 
-#: page/home.php:165
+#: page/home.php:176
 msgid "Submit"
 msgstr "送信"
 
-#: page/home.php:179
+#: page/home.php:191
 msgid "Done!"
 msgstr "終了！"
 
-#: page/home.php:182
+#: page/home.php:194
 msgid "Page Link"
 msgstr "ペイジリンク"
 
-#: page/home.php:185 page/home.php:191
+#: page/home.php:197 page/home.php:203
 msgid "Go to"
 msgstr "GO"
 
-#: page/home.php:188
+#: page/home.php:200
 msgid "Json Link"
 msgstr "Json リンク"
 
-#: page/home.php:193
+#: page/home.php:205
 msgid "Banner Html"
 msgstr "バナー Html"
 
-#: page/home.php:196
+#: page/home.php:208
 msgid "Type 1"
 msgstr "タイプ 1"
 
-#: page/home.php:203
+#: page/home.php:215
 msgid "Type 2"
 msgstr "タイプ 2"
 
-#: page/home.php:210
+#: page/home.php:222
 msgid "Type 3"
 msgstr "タイプ 3"
 
-#: page/home.php:217
+#: page/home.php:228
 msgid "Recommend to us Banner Image"
 msgstr "バナー写真を推薦します"
 
-#: page/home.php:244 mcserverstatus/offline.phtml:205
-#: mcserverstatus/online.phtml:223
+#: page/home.php:254 mcserverstatus/offline.phtml:213
+#: mcserverstatus/online.phtml:232
 msgid "Show Minecraft PC &amp; PE server data"
 msgstr "ディスプレイMinecraft PC &amp; PE サーバデータ。"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "Donate"
 msgstr "寄付"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "allPay"
 msgstr "allPay"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "PayPal"
 msgstr "PayPal"
 
-#: page/home.php:246 mcserverstatus/offline.phtml:207
-#: mcserverstatus/online.phtml:225
+#: page/home.php:256 mcserverstatus/offline.phtml:215
+#: mcserverstatus/online.phtml:234
 msgid "Not have your language?"
 msgstr "言語はないですか。"
 
-#: page/home.php:246 mcserverstatus/offline.phtml:207
-#: mcserverstatus/online.phtml:225
+#: page/home.php:256 mcserverstatus/offline.phtml:215
+#: mcserverstatus/online.phtml:234
 msgid "Helped us translation!"
 msgstr "翻訳を助けてください。"
 
@@ -212,47 +217,47 @@ msgstr "ポート:"
 msgid "Server is offline"
 msgstr "サーバはオフライン"
 
-#: mcserverstatus/offline.phtml:125
+#: mcserverstatus/offline.phtml:128
 msgid "Possible Causes:"
 msgstr "可能は:"
 
-#: mcserverstatus/offline.phtml:126
+#: mcserverstatus/offline.phtml:129
 msgid "Server is not started."
 msgstr "サーバはオフ。"
 
-#: mcserverstatus/offline.phtml:127
+#: mcserverstatus/offline.phtml:130
 msgid "Query is not enabled."
 msgstr "Query はオフ。"
 
-#: mcserverstatus/offline.phtml:128
+#: mcserverstatus/offline.phtml:131
 msgid "IP / Host input error."
 msgstr "IP / ホストはエラーです。"
 
-#: mcserverstatus/offline.phtml:129
+#: mcserverstatus/offline.phtml:132
 msgid "Port input error."
 msgstr "ポートはエラーです。"
 
-#: mcserverstatus/offline.phtml:137 mcserverstatus/online.phtml:132
+#: mcserverstatus/offline.phtml:140 mcserverstatus/online.phtml:135
 msgid "Status"
 msgstr "状態"
 
-#: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
+#: mcserverstatus/offline.phtml:160 mcserverstatus/online.phtml:155
 msgid "Server system"
 msgstr "サーバシステム"
 
-#: mcserverstatus/offline.phtml:161 mcserverstatus/online.phtml:156
+#: mcserverstatus/offline.phtml:164 mcserverstatus/online.phtml:159
 msgid "Plugins"
 msgstr "プラグイン"
 
-#: mcserverstatus/offline.phtml:175 mcserverstatus/online.phtml:183
+#: mcserverstatus/offline.phtml:180 mcserverstatus/online.phtml:189
 msgid "Players"
 msgstr "プレーヤー"
 
-#: mcserverstatus/offline.phtml:177 mcserverstatus/online.phtml:186
+#: mcserverstatus/offline.phtml:182 mcserverstatus/online.phtml:192
 msgid "Not found."
 msgstr "存在しません。"
 
-#: mcserverstatus/offline.phtml:196 mcserverstatus/online.phtml:214
+#: mcserverstatus/offline.phtml:203 mcserverstatus/online.phtml:222
 msgid "Json"
 msgstr "Json"
 

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-24 15:17+0800\n"
-"PO-Revision-Date: 2016-09-25 15:07+0800\n"
+"POT-Creation-Date: 2016-09-25 23:08+0800\n"
+"PO-Revision-Date: 2016-09-25 23:08+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
 "Language: zh_CN\n"
@@ -27,28 +27,28 @@ msgid "Error, Banner type can not be null."
 msgstr "错误，横幅类型不能为空。"
 
 #: page/banner.php:22 page/banner.php:27 page/banner.php:51 page/banner.php:56
-#: page/home.php:141 mcserverstatus/offline.phtml:141
-#: mcserverstatus/online.phtml:136
+#: page/home.php:152 mcserverstatus/offline.phtml:144
+#: mcserverstatus/online.phtml:139
 msgid "IP / Host"
 msgstr "IP / 主机"
 
-#: page/banner.php:23 page/banner.php:52 page/home.php:149
+#: page/banner.php:23 page/banner.php:52 page/home.php:160
 msgid "Port"
 msgstr "端口"
 
 #: page/banner.php:24 page/banner.php:53 mcserverstatus/offline.phtml:6
 #: mcserverstatus/offline.phtml:10 mcserverstatus/offline.phtml:18
-#: mcserverstatus/offline.phtml:123 mcserverstatus/offline.phtml:138
+#: mcserverstatus/offline.phtml:126 mcserverstatus/offline.phtml:141
 msgid "Offline"
 msgstr "离线"
 
 #: page/banner.php:29 page/banner.php:31 page/banner.php:33 page/banner.php:58
-#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:145
-#: mcserverstatus/online.phtml:140
+#: page/banner.php:60 page/banner.php:62 mcserverstatus/offline.phtml:148
+#: mcserverstatus/online.phtml:143
 msgid "Game version"
 msgstr "游戏版本"
 
-#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:133
+#: page/banner.php:35 page/banner.php:64 mcserverstatus/online.phtml:136
 msgid "Online"
 msgstr "在线"
 
@@ -65,7 +65,7 @@ msgstr "错误，横幅类型不存在。"
 msgid "Minecraft PC & PE Server Status (MCServerStatus)"
 msgstr "Minecraft PC & PE 服务器状态 (MCServerStatus)"
 
-#: page/home.php:11 page/home.php:12 page/home.php:17 page/home.php:133
+#: page/home.php:11 page/home.php:12 page/home.php:17 page/home.php:143
 msgid ""
 "Welcome to MCServerStatus. This is a website for quering the status of both "
 "Minecraft PC and PE servers. We currently provide server status pages, json, "
@@ -76,123 +76,128 @@ msgstr ""
 "我们提供服务器状态页面、Json 和状态横幅图片，我们支援各国语言，并且确保不会有"
 "乱码产生，开始使用吧！"
 
-#: page/home.php:50
+#: page/home.php:51
 msgid "Server ip / host unfilled!"
 msgstr "服务器 IP / 主机 未填写！"
 
-#: page/home.php:52
+#: page/home.php:53
 msgid "Server port unfilled!"
 msgstr "服务器端口未填写！"
 
-#: page/home.php:54
+#: page/home.php:55
 msgid "Server name unfilled!"
 msgstr "服务器名称未填写！"
 
-#: page/home.php:77 mcserverstatus/offline.phtml:72
-#: mcserverstatus/online.phtml:72
+#: page/home.php:66 mcserverstatus/offline.phtml:53
+#: mcserverstatus/online.phtml:53
+msgid "en_US"
+msgstr "zh_CN"
+
+#: page/home.php:86 mcserverstatus/offline.phtml:73
+#: mcserverstatus/online.phtml:73
 msgid "Home"
 msgstr "首页"
 
-#: page/home.php:80 mcserverstatus/offline.phtml:75
-#: mcserverstatus/online.phtml:75
+#: page/home.php:89 mcserverstatus/offline.phtml:76
+#: mcserverstatus/online.phtml:76
 msgid "Donate by allPay"
 msgstr "捐款通过欧付宝"
 
-#: page/home.php:83 mcserverstatus/offline.phtml:78
-#: mcserverstatus/online.phtml:78
+#: page/home.php:92 mcserverstatus/offline.phtml:79
+#: mcserverstatus/online.phtml:79
 msgid "Donate by PayPal"
 msgstr "捐款通过 PayPal"
 
-#: page/home.php:86 mcserverstatus/offline.phtml:81
-#: mcserverstatus/online.phtml:81
+#: page/home.php:95 mcserverstatus/offline.phtml:82
+#: mcserverstatus/online.phtml:82
 msgid "Contribution translation"
 msgstr "贡献翻译"
 
-#: page/home.php:89 mcserverstatus/offline.phtml:84
-#: mcserverstatus/online.phtml:84
+#: page/home.php:98 mcserverstatus/offline.phtml:85
+#: mcserverstatus/online.phtml:85
 msgid "GitHub"
 msgstr "GitHub"
 
-#: page/home.php:93 mcserverstatus/offline.phtml:88
-#: mcserverstatus/online.phtml:88
+#: page/home.php:102 mcserverstatus/offline.phtml:89
+#: mcserverstatus/online.phtml:89
 msgid "Language"
 msgstr "语言"
 
-#: page/home.php:132
+#: page/home.php:142
 msgid "Introduction"
 msgstr "介绍"
 
-#: page/home.php:157
+#: page/home.php:168
 msgid "Server Name"
 msgstr "服务器名称"
 
-#: page/home.php:165
+#: page/home.php:176
 msgid "Submit"
 msgstr "提交"
 
-#: page/home.php:179
+#: page/home.php:191
 msgid "Done!"
 msgstr "完成！"
 
-#: page/home.php:182
+#: page/home.php:194
 msgid "Page Link"
 msgstr "页面连结"
 
-#: page/home.php:185 page/home.php:191
+#: page/home.php:197 page/home.php:203
 msgid "Go to"
 msgstr "前往"
 
-#: page/home.php:188
+#: page/home.php:200
 msgid "Json Link"
 msgstr "Json 连结"
 
-#: page/home.php:193
+#: page/home.php:205
 msgid "Banner Html"
 msgstr "横幅 Html"
 
-#: page/home.php:196
+#: page/home.php:208
 msgid "Type 1"
 msgstr "类型 1"
 
-#: page/home.php:203
+#: page/home.php:215
 msgid "Type 2"
 msgstr "类型 2"
 
-#: page/home.php:210
+#: page/home.php:222
 msgid "Type 3"
 msgstr "类型 3"
 
-#: page/home.php:217
+#: page/home.php:228
 msgid "Recommend to us Banner Image"
 msgstr "推荐给我们横幅图片"
 
-#: page/home.php:244 mcserverstatus/offline.phtml:205
-#: mcserverstatus/online.phtml:223
+#: page/home.php:254 mcserverstatus/offline.phtml:213
+#: mcserverstatus/online.phtml:232
 msgid "Show Minecraft PC &amp; PE server data"
 msgstr "显示 Minecraft PC &amp; PE 服务器资料"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "Donate"
 msgstr "捐款"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "allPay"
 msgstr "欧付宝"
 
-#: page/home.php:245 mcserverstatus/offline.phtml:206
-#: mcserverstatus/online.phtml:224
+#: page/home.php:255 mcserverstatus/offline.phtml:214
+#: mcserverstatus/online.phtml:233
 msgid "PayPal"
 msgstr "PayPal"
 
-#: page/home.php:246 mcserverstatus/offline.phtml:207
-#: mcserverstatus/online.phtml:225
+#: page/home.php:256 mcserverstatus/offline.phtml:215
+#: mcserverstatus/online.phtml:234
 msgid "Not have your language?"
 msgstr "没有您的语言?"
 
-#: page/home.php:246 mcserverstatus/offline.phtml:207
-#: mcserverstatus/online.phtml:225
+#: page/home.php:256 mcserverstatus/offline.phtml:215
+#: mcserverstatus/online.phtml:234
 msgid "Helped us translation!"
 msgstr "帮助我们翻译!"
 
@@ -213,47 +218,47 @@ msgstr "端口:"
 msgid "Server is offline"
 msgstr "服务器离线"
 
-#: mcserverstatus/offline.phtml:125
+#: mcserverstatus/offline.phtml:128
 msgid "Possible Causes:"
 msgstr "可能的原因:"
 
-#: mcserverstatus/offline.phtml:126
+#: mcserverstatus/offline.phtml:129
 msgid "Server is not started."
 msgstr "服务器未启动。"
 
-#: mcserverstatus/offline.phtml:127
+#: mcserverstatus/offline.phtml:130
 msgid "Query is not enabled."
 msgstr "Query 未启用。"
 
-#: mcserverstatus/offline.phtml:128
+#: mcserverstatus/offline.phtml:131
 msgid "IP / Host input error."
 msgstr "IP / 主机 输入错误。"
 
-#: mcserverstatus/offline.phtml:129
+#: mcserverstatus/offline.phtml:132
 msgid "Port input error."
 msgstr "端口输入错误。"
 
-#: mcserverstatus/offline.phtml:137 mcserverstatus/online.phtml:132
+#: mcserverstatus/offline.phtml:140 mcserverstatus/online.phtml:135
 msgid "Status"
 msgstr "状态"
 
-#: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
+#: mcserverstatus/offline.phtml:160 mcserverstatus/online.phtml:155
 msgid "Server system"
 msgstr "服务器系统"
 
-#: mcserverstatus/offline.phtml:161 mcserverstatus/online.phtml:156
+#: mcserverstatus/offline.phtml:164 mcserverstatus/online.phtml:159
 msgid "Plugins"
 msgstr "插件"
 
-#: mcserverstatus/offline.phtml:175 mcserverstatus/online.phtml:183
+#: mcserverstatus/offline.phtml:180 mcserverstatus/online.phtml:189
 msgid "Players"
 msgstr "玩家"
 
-#: mcserverstatus/offline.phtml:177 mcserverstatus/online.phtml:186
+#: mcserverstatus/offline.phtml:182 mcserverstatus/online.phtml:192
 msgid "Not found."
 msgstr "未找到。"
 
-#: mcserverstatus/offline.phtml:196 mcserverstatus/online.phtml:214
+#: mcserverstatus/offline.phtml:203 mcserverstatus/online.phtml:222
 msgid "Json"
 msgstr "Json"
 
