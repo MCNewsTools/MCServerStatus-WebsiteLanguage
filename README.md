@@ -17,4 +17,4 @@ Translated languages:
 - [X] English (en_US)
 - [X] 繁體中文 (zh_TW)
 - [X] 简体中文 (zh_CN)
-- [ ] 日本語 (ja_JP)
+- [X] 日本語 (ja_JP)

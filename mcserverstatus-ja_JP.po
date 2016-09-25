@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: meserverstatus\n"
-"POT-Creation-Date: 2016-09-24 15:18+0800\n"
-"PO-Revision-Date: 2016-09-24 15:18+0800\n"
+"POT-Creation-Date: 2016-09-25 15:28+0800\n"
+"PO-Revision-Date: 2016-09-25 15:28+0800\n"
 "Last-Translator: 科技玩客 TechPlayer\n"
 "Language-Team: 科技玩客 TechPlayer, LLC.\n"
 "Language: zh_TW\n"
@@ -72,6 +72,8 @@ msgid ""
 "and status banner for websites. It supports multi-languages. We promise that "
 "are no encoding errors. Start using it today!"
 msgstr ""
+"ようこそ！こちらはMinecraft PC とPEの状態検査のウェブサイト。我々は状態ペイジ"
+"とJSONとバナーは提供しています。さー始めるよ！"
 
 #: page/home.php:50
 msgid "Server ip / host unfilled!"
@@ -103,7 +105,7 @@ msgstr "PayPal寄付"
 #: page/home.php:86 mcserverstatus/offline.phtml:81
 #: mcserverstatus/online.phtml:81
 msgid "Contribution translation"
-msgstr ""
+msgstr "翻訳を貢献します。"
 
 #: page/home.php:89 mcserverstatus/offline.phtml:84
 #: mcserverstatus/online.phtml:84
@@ -117,7 +119,7 @@ msgstr "言語"
 
 #: page/home.php:132
 msgid "Introduction"
-msgstr ""
+msgstr "紹介"
 
 #: page/home.php:157
 msgid "Server Name"
@@ -166,7 +168,7 @@ msgstr "バナー写真を推薦します"
 #: page/home.php:244 mcserverstatus/offline.phtml:205
 #: mcserverstatus/online.phtml:223
 msgid "Show Minecraft PC &amp; PE server data"
-msgstr ""
+msgstr "ディスプレイMinecraft PC &amp; PE サーバデータ。"
 
 #: page/home.php:245 mcserverstatus/offline.phtml:206
 #: mcserverstatus/online.phtml:224
@@ -186,12 +188,12 @@ msgstr "PayPal"
 #: page/home.php:246 mcserverstatus/offline.phtml:207
 #: mcserverstatus/online.phtml:225
 msgid "Not have your language?"
-msgstr ""
+msgstr "言語はないですか。"
 
 #: page/home.php:246 mcserverstatus/offline.phtml:207
 #: mcserverstatus/online.phtml:225
 msgid "Helped us translation!"
-msgstr ""
+msgstr "翻訳を助けてください。"
 
 #: mcserverstatus/offline.phtml:11 mcserverstatus/offline.phtml:12
 #: mcserverstatus/offline.phtml:17 mcserverstatus/online.phtml:11
@@ -236,7 +238,7 @@ msgstr "状態"
 
 #: mcserverstatus/offline.phtml:157 mcserverstatus/online.phtml:152
 msgid "Server system"
-msgstr ""
+msgstr "サーバシステム"
 
 #: mcserverstatus/offline.phtml:161 mcserverstatus/online.phtml:156
 msgid "Plugins"
